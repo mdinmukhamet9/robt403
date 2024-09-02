@@ -1,1 +1,1 @@
-Each folder has additional README file, which  shortly explains itself
+Each folder has an additional README file which shortly explains itself
