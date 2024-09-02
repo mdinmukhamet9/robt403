@@ -1,0 +1,8 @@
+prefix=/home/dinm/ros1_ws/src/murat/build/devel
+
+Name: murat
+Description: Description of murat
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
